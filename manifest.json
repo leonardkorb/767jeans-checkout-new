@@ -1,7 +1,7 @@
 {
-  "name": "checkout-new-ui",
+  "name": "checkout-ui-settings",
   "vendor": "tfbsk9",
-  "version": "0.0.1",
+  "version": "0.8.8",
   "title": "Checkout UI Settings",
   "description": "Declare custom settings to be used by checkout ui",
   "builders": {
